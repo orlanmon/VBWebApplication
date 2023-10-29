@@ -150,8 +150,6 @@ Namespace Controllers
 
             Next
 
-
-
             Dim classB As B = New B(5)
 
             System.Diagnostics.Debug.WriteLine(classB.AFunction())
